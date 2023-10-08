@@ -18,3 +18,7 @@ h1 {
 p {
   display: flex;
 }
+
+h2 {
+  flex-direction: column;
+}
