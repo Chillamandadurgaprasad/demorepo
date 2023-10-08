@@ -22,3 +22,6 @@ p {
 h2 {
   flex-direction: column;
 }
+a {
+  text-decoration: none;
+}
