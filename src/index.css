@@ -15,3 +15,6 @@ code {
 h1 {
   background-color: aliceblue;
 }
+a {
+  text-decoration: none;
+}
